@@ -1,0 +1,25 @@
+.elementor-kit-10{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Montserrat";--e-global-typography-primary-font-weight:700;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-weight:700;--e-global-typography-text-font-family:"Montserrat";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-weight:700;}.elementor-kit-10 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2024/10/Montserrat-Regular.eot');
+	src: url('../../2024/10/Montserrat-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/10/Montserrat-Regular.woff2') format('woff2'),
+		url('../../2024/10/Montserrat-Regular.woff') format('woff'),
+		url('../../2024/10/Montserrat-Regular.ttf') format('truetype'),
+		url('../../2024/10/Montserrat-Regular.svg#Montserrat') format('svg');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2024/10/Montserrat-Bold.eot');
+	src: url('../../2024/10/Montserrat-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/10/Montserrat-Bold.woff2') format('woff2'),
+		url('../../2024/10/Montserrat-Bold.woff') format('woff'),
+		url('../../2024/10/Montserrat-Bold.ttf') format('truetype'),
+		url('../../2024/10/Montserrat-Bold.svg#Montserrat') format('svg');
+}
+/* End Custom Fonts CSS */
